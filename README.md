@@ -1,4 +1,4 @@
-tumblr-001-lunar
+tumblr-01-lunar
 ================
 
-Tumblr Theme #001 - Lunar
+Tumblr Theme #01 - Lunar
